@@ -3,3 +3,7 @@ Using one 3 phase gate driver IR2136, 6 CSD19535KCS N-channel mosfets and stm32 
 
 manual & data sheets
 https://www.ti.com/lit/ug/spruhj1i/spruhj1i.pdf?ts=1728499050730
+
+
+Projects
+1.https://github.com/vedderb/bldc []
