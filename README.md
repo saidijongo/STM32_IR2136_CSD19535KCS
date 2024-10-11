@@ -7,3 +7,4 @@ https://www.ti.com/lit/ug/spruhj1i/spruhj1i.pdf?ts=1728499050730
 
 Projects
 1.https://github.com/vedderb/bldc []
+2.https://github.com/vedderb/bldc/blob/master/motor/foc_math.c
